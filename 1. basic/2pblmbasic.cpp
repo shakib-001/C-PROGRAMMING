@@ -5,7 +5,7 @@ using namespace std;
 int main () {
     printf("Name: Shakib Mozumder\n");
     printf("Date of Birth: 28/08/2002\n");
-    printf("Mobile number: 01610157038");
+    printf("Mobile number: 01*********");
     return 0;
 } */
 
@@ -200,4 +200,5 @@ int main (){
     return 0;
 
 } */
+
 
